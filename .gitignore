@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# YOLO / Ultralytics 常见大文件与产物
+runs/
+datasets/
+weights/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.ckpt
+*.npz
+*.zip
+*.7z
+*.rar
+*.mp4
+*.mov
+*.avi
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
